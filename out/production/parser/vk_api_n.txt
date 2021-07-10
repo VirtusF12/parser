@@ -1,0 +1,169 @@
+{
+"response":
+    {"count":2730,
+    "items":[
+            {"id":9641,
+            "from_id":-105325163,
+            "owner_id":-105325163,
+            "date":1536693300,
+            "marked_as_ads":0,
+            "post_type":"post",
+            "text":"(от нее)\n\nЗамужем. Я би. Встречусь с семейной парой для секса в троем ЖМЖ",
+            "attachments":[
+                            {"type":"photo",
+                            "photo":{"id":456245649,
+                                    "album_id":-7,
+                                    "owner_id":-105325163,
+                                    "user_id":100,
+                                    "photo_75":"https:\/\/pp.userapi.com\/c846523\/v846523466\/df8c2\/gjp0nZZX7jo.jpg",
+                                    "photo_130":"https:\/\/pp.userapi.com\/c846523\/v846523466\/df8c3\/6YSjB76ElWg.jpg",
+                                    "photo_604":"https:\/\/pp.userapi.com\/c846523\/v846523466\/df8c4\/cs0cnErR2G8.jpg",
+                                    "photo_807":"https:\/\/pp.userapi.com\/c846523\/v846523466\/df8c5\/GEjAdmvzw5A.jpg",
+                                    "photo_1280":"https:\/\/pp.userapi.com\/c846523\/v846523466\/df8c6\/aM8Gx5LWfks.jpg",
+                                    "width":687,
+                                    "height":1024,
+                                    "text":"",
+                                    "date":1536693300,
+                                    "post_id":9641,
+                                    "access_key":"81bfa75b05a8bbea6d"}
+                                    }
+                            ],
+            "post_source":{"type":"api"},
+            "comments":{"count":0,"can_post":0},
+            "likes":
+                     {"count":44,
+                       "user_likes":0,
+                       "can_like":1,
+                       "can_publish":1},
+            "reposts":
+                     {"count":0,
+                       "user_reposted":0}
+                     },
+
+
+               {"id":9638,
+                "from_id":-105325163,
+                "owner_id":-105325163,
+                "date":1536678900,
+                "marked_as_ads":0,
+                "post_type":"post",
+                "text":"(от подписчицы)\n\nпознакомлюсь с мужчиной от 40 лет. всегда мечтала попробовать с постарше...",
+                "attachments":[{"type":"photo","photo":{"id":456245647,"album_id":-7,"owner_id":-105325163,"user_id":100,"photo_75":"https:\/\/pp.userapi.com\/c846221\/v846221466\/e1f26\/BcFkql2QCKo.jpg","photo_130":"https:\/\/pp.userapi.com\/c846221\/v846221466\/e1f27\/Wb--lK4nMOI.jpg","photo_604":"https:\/\/pp.userapi.com\/c846221\/v846221466\/e1f28\/ncVj_wYjbew.jpg","width":402,"height":604,"text":"","date":1536678900,"post_id":9638,"access_key":"e75abda97db64a55a8"}}],"post_source":{"type":"api"},"comments":{"count":0,"can_post":0},"likes":{"count":123,"user_likes":0,"can_like":1,"can_publish":1},"reposts":{"count":2,"user_reposted":0}},{"id":9637,"from_id":-105325163,"owner_id":-105325163,"date":1536664500,"marked_as_ads":0,"post_type":"post","text":"(от подписчика)\n\nМоя жена. Нравится?","attachments":[{"type":"photo","photo":{"id":456245646,"album_id":-7,"owner_id":-105325163,"user_id":100,"photo_75":"https:\/\/pp.userapi.com\/c846320\/v846320466\/e3c6f\/VhDnbNu6evY.jpg","photo_130":"https:\/\/pp.userapi.com\/c846320\/v846320466\/e3c70\/GwBFGPq0kX8.jpg","photo_604":"https:\/\/pp.userapi.com\/c846320\/v846320466\/e3c71\/AWvdGC85dNE.jpg","photo_807":"https:\/\/pp.userapi.com\/c846320\/v846320466\/e3c72\/ovcdyy0FZ5U.jpg","photo_1280":"https:\/\/pp.userapi.com\/c846320\/v846320466\/e3c73\/BcqxSAOj67M.jpg","photo_2560":"https:\/\/pp.userapi.com\/c846320\/v846320466\/e3c74\/RxPzl1ddlc8.jpg","width":2560,"height":1920,"text":"","date":1536664500,"post_id":9637,"access_key":"ae09be18a632a66cdf"}}],"post_source":{"type":"api"},"comments":{"count":0,"can_post":0},"likes":{"count":123,"user_likes":0,"can_like":1,"can_publish":1},"reposts":{"count":0,"user_reposted":0}},{"id":9633,"from_id":-105325163,"owner_id":-105325163,"date":1536650100,"marked_as_ads":0,"post_type":"post","text":"(от подписчицы)\n\nигривая нимфоманка в поиске мужчины, умеющего доводить свою женщину до полной эйфории","attachments":[{"type":"photo","photo":{"id":456245644,"album_id":-7,"owner_id":-105325163,"user_id":100,"photo_75":"https:\/\/pp.userapi.com\/c849520\/v849520466\/72b40\/bLdWDbNO8c0.jpg","photo_130":"https:\/\/pp.userapi.com\/c849520\/v849520466\/72b41\/5Njso-cwVbo.jpg","photo_604":"https:\/\/pp.userapi.com\/c849520\/v849520466\/72b42\/VqPvQJ-dcoE.jpg","width":412,"height":557,"text":"","date":1536650100,"post_id":9633,"access_key":"ddd576cbf8688324a8"}}],"post_source":{"type":"api"},"comments":{"count":0,"can_post":0},"likes":{"count":182,"user_likes":0,"can_like":1,"can_publish":1},"reposts":{"count":7,"user_reposted":0}},{"id":9632,"from_id":-105325163,"owner_id":-105325163,"date":1536635700,"marked_as_ads":0,"post_type":"post","text":"(от подписчицы, анонимно)\n\nКак я вам? на оценочку","attachments":[{"type":"photo","photo":{"id":456245643,"album_id":-7,"owner_id":-105325163,"user_id":100,"photo_75":"https:\/\/pp.userapi.com\/c845421\/v845421466\/e8fa5\/0fZm2Q1Rp2g.jpg","photo_130":"https:\/\/pp.userapi.com\/c845421\/v845421466\/e8fa6\/urah6J_QILk.jpg","photo_604":"https:\/\/pp.userapi.com\/c845421\/v845421466\/e8fa7\/ceAvKFjHlDs.jpg","width":453,"height":604,"text":"","date":1536635700,"post_id":9632,"access_key":"c8ac6df2c7ba196205"}}],"post_source":{"type":"api"},"comments":{"count":0,"can_post":0},"likes":{"count":150,"user_likes":0,"can_like":1,"can_publish":1},"reposts":{"count":2,"user_reposted":0}},{"id":9627,"from_id":-105325163,"owner_id":-105325163,"date":1536621300,"marked_as_ads":0,"post_type":"post","text":"(от неё)\n\nЖелаю чтоб мне лизали долго и нежно. Есть желающие?:)","attachments":[{"type":"photo","photo":{"id":456245642,"album_id":-7,"owner_id":-105325163,"user_id":100,"photo_75":"https:\/\/pp.userapi.com\/c849332\/v849332466\/75240\/6JyQSuCXurw.jpg","photo_130":"https:\/\/pp.userapi.com\/c849332\/v849332466\/75241\/OdzzdDthvOA.jpg","photo_604":"https:\/\/pp.userapi.com\/c849332\/v849332466\/75242\/WdJxoUnzVjA.jpg","photo_807":"https:\/\/pp.userapi.com\/c849332\/v849332466\/75243\/gnbjQJ_dUAU.jpg","photo_1280":"https:\/\/pp.userapi.com\/c849332\/v849332466\/75244\/hBqwywLEAJo.jpg","width":574,"height":990,"text":"","date":1536621300,"post_id":9627,"access_key":"0f97997a73bb111468"}}],"post_source":{"type":"api"},"comments":{"count":0,"can_post":0},"likes":{"count":199,"user_likes":0,"can_like":1,"can_publish":1},"reposts":{"count":7,"user_reposted":0}},{"id":9622,"from_id":-105325163,"owner_id":-105325163,"date":1536606900,"marked_as_ads":0,"post_type":"post","text":"(от неё, анонимно)\n\nКак я вам? В поисках любовника. Люблю полненьких мужчин.","attachments":[{"type":"photo","photo":{"id":456245639,"album_id":-7,"owner_id":-105325163,"user_id":100,"photo_75":"https:\/\/pp.userapi.com\/c845323\/v845323466\/ec147\/mmwp11A0VzQ.jpg","photo_130":"https:\/\/pp.userapi.com\/c845323\/v845323466\/ec148\/1PxmJl6ZPx4.jpg","photo_604":"https:\/\/pp.userapi.com\/c845323\/v845323466\/ec149\/lBtoXkbkJZA.jpg","width":400,"height":604,"text":"","date":1536606900,"post_id":9622,"access_key":"1cc9362d879f999ea7"}}],"post_source":{"type":"api"},"comments":{"count":0,"can_post":0},"likes":{"count":299,"user_likes":0,"can_like":1,"can_publish":1},"reposts":{"count":10,"user_reposted":0}},
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ADS
+                {
+                "id":9618,
+                "from_id":-105325163,
+                "owner_id":-105325163,
+                "date":1536602520,
+                "marked_as_ads":1,
+                "post_type":"post",
+                "text":"💥MICRO TOUCH SOLO📌⚡\n\n⚡Триммер Micro Touch Solo прекрасно подходит для ухода, поддержания и моделирования бороды, усов или бакенбардов в аккуратном и привлекательном виде.\n\n⚡Хотите легкую небритость, модную бородку? Micro Touch Solo поможет Вам с этим в два счета! Еще никогда не было так легко следить и менять свой внешний вид!\n\n👉ЗАКАЗАТЬ С 50% СКИДКОЙ — https:\/\/vk.cc\/84j3Ta",
+                "copy_history":
+                                [
+                                    {
+                                    "id":227,
+                                    "owner_id":-101827016,
+                                    "from_id":-101827016,
+                                    "date":1527939025,
+                                    "post_type":"post",
+                                    "text":"Мужской триммер с 3-мя насадками Micro Touch Solo!!!\n\n👉 Идеальные контуры бороды\n👉 Чёткая линия бакенбард\n👉 Бритва может работать 45 минут от одного заряда\n👉 Бреет за один проход\n\nЗаказать со скидкой: https:\/\/vk.cc\/84j3Ta",
+                                    "attachments":[
+                                                    {
+                                                    "type":"photo",
+                                                    "photo":{
+                                                            "id":456239035,
+                                                            "album_id":-7,
+                                                            "owner_id":-101827016,
+                                                            "user_id":100,
+                                                            "photo_75":"https:\/\/sun1-16.userapi.com\/c831109\/v831109772\/11a6b0\/U_5U51yPZmI.jpg",
+                                                            "photo_130":"https:\/\/sun1-5.userapi.com\/c831109\/v831109772\/11a6b1\/XBSN2AKCcaw.jpg",
+                                                            "photo_604":"https:\/\/sun1-20.userapi.com\/c831109\/v831109772\/11a6b2\/9Q_j7EWz3wo.jpg",
+                                                            "photo_807":"https:\/\/sun1-12.userapi.com\/c831109\/v831109772\/11a6b3\/uZCbgCPa_gU.jpg",
+                                                            "width":800,
+                                                            "height":800,
+                                                            "text":"",
+                                                            "date":1527939026,
+                                                            "post_id":227,
+                                                            "access_key":"68b272966775f359db"
+                                                            }
+                                                    },
+                                                     {
+                                                     "type":"link",
+                                                     "link":{
+                                                             "url":"http:\/\/shop.premiume.ru\/nmK3\/sxwifs",
+                                                             "title":"Купить Micro Touch Solo мужской триммер по супер цене!",
+                                                             "description":"Micro Touch Solo мужской триммер",
+                                                             "target":"internal",
+                                                             "photo":
+                                                                     {
+                                                                     "id":456251763,
+                                                                     "album_id":-2,
+                                                                     "owner_id":100,
+                                                                     "photo_75":false,
+                                                                     "photo_130":false,
+                                                                     "photo_604":false,
+                                                                     "text":"",
+                                                                     "date":1527938978}
+                                                                     }
+                                                     }
+                                                   ],
+                                    "post_source":
+                                                  {
+                                                  "type":"vk"
+                                                  }
+                                    }
+                                ],
+                "attachments":[
+                                {
+                                "type":"video",
+                                "video":
+                                       {
+                                       "id":456239020,
+                                       "owner_id":-101827016,
+                                       "title":"Micro Touch Solo - мужской триммер 🔥",
+                                       "duration":19,
+                                       "description":"",
+                                       "date":1528992010,
+                                       "comments":0,
+                                       "views":126302,
+                                       "width":360,
+                                       "height":360,
+                                       "photo_130":"https:\/\/pp.userapi.com\/c845122\/v845122222\/4d70a\/n4LvqW0C-ns.jpg",
+                                       "photo_320":"https:\/\/pp.userapi.com\/c845122\/v845122222\/4d708\/HxiOXsZ46eA.jpg",
+                                       "photo_800":"https:\/\/pp.userapi.com\/c845122\/v845122222\/4d707\/nnoQh2G8fpc.jpg",
+                                       "access_key":"092afdc0ffef64bf88",
+                                       "repeat":1,
+                                       "first_frame_320":"https:\/\/pp.userapi.com\/c840328\/v840328222\/888a1\/i0isShg4J4o.jpg",
+                                       "first_frame_160":"https:\/\/pp.userapi.com\/c840328\/v840328222\/888a2\/-mx8Ned35vA.jpg",
+                                       "first_frame_130":"https:\/\/pp.userapi.com\/c840328\/v840328222\/888a3\/xe9glr-c3rQ.jpg",
+                                       "first_frame_800":"https:\/\/pp.userapi.com\/c840328\/v840328222\/888a0\/DDEDllxw8Dc.jpg",
+                                       "can_add":1
+                                       }
+                                }
+                               ],
+                "post_source":
+                              {
+                                "type":"vk"
+                              },
+                "comments":
+                           {
+                            "count":0,
+                            "can_post":0
+                            },
+                "likes":
+                        {
+                         "count":3,
+                         "user_likes":0,
+                         "can_like":1,
+                         "can_publish":1},
+                "reposts":
+                        {
+                         "count":0,
+                         "user_reposted":0
+                        }
+                },
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ END ADS
+
+
+                {"id":9614,"from_id":-105325163,"owner_id":-105325163,"date":1536592500,"marked_as_ads":0,"post_type":"post","text":"(от неё)\n\nПознакомлюсь с мужчиной для оральных ласк . админ анон плиз","attachments":[{"type":"photo","photo":{"id":456245636,"album_id":-7,"owner_id":-105325163,"user_id":100,"photo_75":"https:\/\/pp.userapi.com\/c845016\/v845016466\/e7c5a\/lMQfd-l6kns.jpg","photo_130":"https:\/\/pp.userapi.com\/c845016\/v845016466\/e7c5b\/ST9pTiGS20w.jpg","photo_604":"https:\/\/pp.userapi.com\/c845016\/v845016466\/e7c5c\/dIly86OLdPQ.jpg","photo_807":"https:\/\/pp.userapi.com\/c845016\/v845016466\/e7c5d\/M8xjbenP97Y.jpg","photo_1280":"https:\/\/pp.userapi.com\/c845016\/v845016466\/e7c5e\/fKeyvBT4Wew.jpg","photo_2560":"https:\/\/pp.userapi.com\/c845016\/v845016466\/e7c5f\/YVvn0EaeTSI.jpg","width":1536,"height":2048,"text":"","date":1536592500,"post_id":9614,"access_key":"16e02ced900547b2e9"}}],"post_source":{"type":"api"},"comments":{"count":0,"can_post":0},"likes":{"count":249,"user_likes":0,"can_like":1,"can_publish":1},"reposts":{"count":10,"user_reposted":0}}]}}

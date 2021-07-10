@@ -1,0 +1,147 @@
+
+
+
+
+1) ссылка https://api.vk.com/method/wall.get?&count=1&v=5.52&access_token=
+
+2) получение токена для доступа к функциям через APP_ID https://vk.com/editapp?id=6681646&section=options
+
+3) после того как был получен токен выполнить запрос на получение данных
+https://api.vk.com/method/wall.get?owner_id=-45745333&count=1&v=5.52&access_token=c100a5e5ff7bf5df2ab9a15ca9e6e8b4ce8abc9938990f2455f270e8e1dec2e8a680e61fb41a6fd14ecfd
+
+
+
+///////////////////////////////////////
+
+{
+    "firstName": "Json",
+    "lastName": "Smith",
+    "age": 30,
+    "address": {
+        "streetAddress": "666 1nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": 10021
+    },
+    "phoneNumbers": [
+        {
+            "type": "home",
+            "number": "542 666-1234"
+        },
+        {
+            "type": "fax",
+            "number": "653 666-4567"
+        }
+    ],
+    "friends": [
+        {
+            "firstName": "Test",
+            "lastName": "Snow",
+            "age": 20,
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "141 111-1234"
+                }
+            ],
+            "friends": [
+                {
+                    "firstName": "UnknownFirstName",
+                    "lastName": "UnknownLastName",
+                    "age": 999,
+                    "phoneNumbers": [
+                        {
+                            "type": "home",
+                            "number": "000 000-0000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "firstName": "Flash",
+            "lastName": "Tompson",
+            "age": 23,
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "999 111-1234"
+                }
+            ]
+        }
+    ]
+}
+
+
+// Считываем json
+Object obj = new JSONParser().parse(jsonString); // Object obj = new JSONParser().parse(new FileReader("JSONExample.json"));
+
+// Кастим obj в JSONObject
+JSONObject jo = (JSONObject) obj;
+
+// Достаём firstName and lastName
+String firstName = (String) jo.get("firstName");
+String lastName = (String) jo.get("lastName");
+System.out.println("fio: " + firstName + " " + lastName);
+
+// Достаем массив номеров
+JSONArray phoneNumbersArr = (JSONArray) jo.get("phoneNumbers");
+Iterator phonesItr = phoneNumbersArr.iterator();
+System.out.println("phoneNumbers:");
+
+// Выводим в цикле данные массива
+while (phonesItr.hasNext()) {
+    JSONObject test = (JSONObject) phonesItr.next();
+    System.out.println("- type: " + test.get("type") + ", phone: " + test.get("number"));
+}
+
+///////////////////////////////////////
+{
+    "response":{ // перый объект
+        "count":9648,
+        "items":[ // объект массива
+                    {"id":25912516,
+                     "from_id":-45745333,
+                     "owner_id":-45745333,
+                     "date":1535999402,
+                     "marked_as_ads":0,
+                     "post_type":"post",
+                     "text":"",
+                     "attachments":[
+                                    {"type":"photo",
+                                    "photo":
+                                        {"id":457909717,
+                                        "album_id":-7,
+                                        "owner_id":-45745333,
+                                        "user_id":100,
+                                        "photo_75":"https:\/\/pp.userapi.com\/c845019\/v845019743\/e1603\/9dt4Vfg2BuY.jpg",
+                                        "photo_130":"https:\/\/pp.userapi.com\/c845019\/v845019743\/e1604\/MwSVXZZVp74.jpg",
+                                        "photo_604":"https:\/\/pp.userapi.com\/c845019\/v845019743\/e1605\/SWLt-rwKR0k.jpg",
+                                        "width":526,
+                                        "height":453,
+                                        "text":"",
+                                        "date":1535988811,
+                                        "post_id":25912516,
+                                        "access_key":"8b6bcfd2d21f7b4013"
+                                        }
+                                    }],
+                     "post_source":{
+                                    "type":"vk"},
+                     "comments":{
+                                "count":504,
+                                "can_post":1
+                                },
+                     "likes":{
+                              "count":2485,
+                              "user_likes":0,
+                              "can_like":1,
+                              "can_publish":1
+                              },
+                     "reposts":{
+                                "count":24,
+                                "user_reposted":0
+                                }
+                     }
+        ]
+    }
+}

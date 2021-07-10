@@ -1,0 +1,58 @@
+
+
+ // System.out.println(category);
+
+                /*
+                <div class="data">
+                    <p>Мотоциклы и мототехника <span class="data-sep"> | </span> Компания </p>
+                    <p>Новороссийск</p>
+                    <div class="js-item-date c-2" data-absolute-date="   Сегодня&nbsp;09:59  " data-relative-date="3 часа назад">
+                        3 часа назад </div>
+                </div>
+                */
+
+
+                //System.out.println(element + "\nQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ\n");
+
+                /*
+
+                try {
+                            Document document = Jsoup.connect("https://super-drop.ru/catalog/chasy")
+                                    .data("query", "Java")
+                                    .userAgent("Mozilla")
+                                    .cookie("auth", "token")
+                                    .timeout(7000)
+                                    .get();
+
+                            URL url = new URL("https://www.svyaznoy.ru/catalog/phone/224");
+                            Document doc = Jsoup.parse(url, 1_000);
+
+                            Elements elements = doc.getAllElements();
+
+                            for (Element element : elements) {
+
+                                //Element el = element.child(0);
+                                String text = element.text();
+                                System.out.println(element);
+                            }
+
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
+
+                        try {
+
+                            Document document = Jsoup.connect("http://4pda.ru").get();
+                            Elements elms = document.getElementsByAttributeValue("rel","bookmark");
+
+                            for (Element element : elms) {
+                                // String title = element.attr("title");
+                                Element nElem = element.attr("rel","bookmark");
+                                String title = nElem.attr("title");
+                                System.out.println(title);
+
+                            }
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
+                        */
